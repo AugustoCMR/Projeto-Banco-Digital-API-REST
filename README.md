@@ -1,9 +1,6 @@
-![](https://i.imgur.com/xG74tOh.png)
+# API RESTful Banco Digital
 
-# Desafio | Back-end - Módulo 2
-
-Você acabou de ser contratado pela melhor empresa de tecnologia do mundo: a **CUBOS**.
-Sua primeira tarefa como desenvolvedor é criar uma API para um Banco Digital. Esse será um projeto **piloto**, ou seja, no futuro outras funcionalidades serão implementadas, portanto, dados do banco (nome, agência, etc.) serão imutáveis.
+Desafio proposto pela Cubos Academy para a construção de uma API RESTful para um Banco Digital. A API possuí certas funcionalidades como listar conta, criar, atualizar e deletar. Também possuí operações bancárias como depositar, sacar, transferir, ver saldo e extrato. Fazer esse desafio foi de grande aprendizado e futuramente pretendo fazer mais melhorias nele como forma de medir minha evolução!
 
 Seu papel é construir uma RESTful API que permita:
 
@@ -569,17 +566,6 @@ function extrato(...) {
     mensagem: 'Mensagem do erro!'
 }
 ```
-
-## Aulas úteis:
-
--   [Rotas, Intermediários e Controladores](https://aulas.cubos.academy/turma/6180ea7c-53ac-4270-bd46-d772873added/aulas/9ef7108a-db56-42b1-8849-945e9d2cc042)
--   [Aula API REST](https://aulas.cubos.academy/turma/6180ea7c-53ac-4270-bd46-d772873added/aulas/5aa26e1f-bda7-4e5d-a04f-68f2397da312)
--   [Aula Prática de API REST](https://aulas.cubos.academy/turma/6180ea7c-53ac-4270-bd46-d772873added/aulas/1296e06f-5718-41ae-a9f0-3dbe65cc1d55)
--   [Formatando datas com date-fns](https://aulas.cubos.academy/turma/6180ea7c-53ac-4270-bd46-d772873added/aulas/8bbd043c-d001-43eb-bea9-1ddcdeeeafcc)
--   [Aula de funções e objetos](https://aulas.cubos.academy/turma/6180ea7c-53ac-4270-bd46-d772873added/aulas/9af59938-0f97-423d-b412-62d0222610db)
--   [Aula de Revisão](https://aulas.cubos.academy/turma/6180ea7c-53ac-4270-bd46-d772873added/aulas/991213f6-6711-4b55-8318-35e486093a84)
-
-
 **LEMBRE-SE**: é melhor feito do que perfeito!!!
 
 ###### tags: `back-end` `módulo 2` `nodeJS` `API REST` `desafio`
